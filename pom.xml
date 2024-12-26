@@ -76,9 +76,9 @@
 
         <!-- SQL参数化 -->
         <dependency>
-            <groupId>com.alibaba.fastsql</groupId>
-            <artifactId>fastsql</artifactId>
-            <version>2.1.8</version>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.2.23</version>
         </dependency>
     </dependencies>
 

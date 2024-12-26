@@ -30,10 +30,9 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.alibaba.fastsql.DbType;
-import com.alibaba.fastsql.sql.visitor.ParameterizedOutputVisitorUtils;
-import com.alibaba.fastsql.util.JdbcConstants;
-
+import com.alibaba.druid.DbType;
+import com.alibaba.druid.sql.visitor.ParameterizedOutputVisitorUtils;
+import com.alibaba.druid.util.JdbcConstants;
 import com.aliyun.ha3engine.jdbc.common.config.Ha3KvPairBuilder;
 import com.aliyun.ha3engine.jdbc.common.exception.ErrorCode;
 import com.aliyun.ha3engine.jdbc.common.exception.Ha3DriverException;
