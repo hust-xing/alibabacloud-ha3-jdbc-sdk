@@ -1,15 +1,19 @@
-# Ha3 JDBC Driver
+English | [简体中文](README-CN.md)
 
-## Ha3 JDBC driver is a Java library for accessing ha3-sqlengine
+![](https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg)
 
-## maven
+## Alibaba Cloud Ha3 JDBC SDK
 
-正式版本
+## Issues
 
-```xml
-<dependency>
-  <groupId>com.aliyun</groupId>
-  <artifactId>aliyun-sdk-ha3engine-jdbc</artifactId>
-  <version>0.0.1</version>
-</dependency>
-```
+[Opening an Issue](https://github.com/aliyun/alibabacloud-ha3-jdbc-sdk/issues/new), Issues not conforming to the guidelines may be closed immediately.
+
+## References
+
+- [Latest Release](https://github.com/aliyun/alibabacloud-ha3-jdbc-sdk)
+
+## License
+
+[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Copyright (c) 2009-present, Alibaba Cloud All rights reserved.
